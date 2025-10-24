@@ -1,0 +1,23 @@
+# 🔒 Sensitive files
+.env
+*.env
+*.key
+*.json
+config.json
+credentials.json
+
+# 🧠 Virtual environments
+venv/
+.env/
+.env.bak/
+__pycache__/
+*.pyc
+
+# 📦 System / IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 🚀 Streamlit cache
+.streamlit/
